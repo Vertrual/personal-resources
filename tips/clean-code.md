@@ -1,4 +1,4 @@
-REFER TO https://roblox.github.io/lua-style-guide/ FOR OFFICAL STYLING
+REFER TO https://roblox.github.io/lua-style-guide/ FOR "OFFICAL" STYLING
 
 1. Use descriptive and obvious names.
     - Don't use abbreviations, use full English words. `Player` is better than `Plr`.
