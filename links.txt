@@ -1,1 +1,5 @@
+Links to different posts
 
+These 2 links contains a lot the things i use with good documentation:
+https://sleitnick.github.io/RbxUtil/
+https://github.com/loominatrx/useful-roblox-resources/blob/main/README.md
